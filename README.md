@@ -21,7 +21,7 @@ application and the blockchain network.
 
 ![Screenshot (149)](https://user-images.githubusercontent.com/80467294/197943867-ab6cc539-c553-408e-8f96-0ca8debf209a.png)
 
-**Metamask Confimation to add the task in Blockchain**
+**Metamask Confirmation to add the task in Blockchain**
 
 ![Screenshot (94)](https://user-images.githubusercontent.com/80467294/197943960-5283840a-0611-4f99-9bf9-0588eb1d1cfc.png)
 
